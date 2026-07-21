@@ -12,18 +12,12 @@
 
 *A professionally documented Java JDBC project that demonstrates how Java applications connect to a MySQL database using JDBC, create domain objects, execute parameterized SQL statements with `PreparedStatement`, and insert student records while following clean coding practices and structured project documentation.*
 
-<p>
-
-![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![JDBC](https://img.shields.io/badge/JDBC-Database%20Connectivity-007396?style=for-the-badge)
-
-![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-blue?style=for-the-badge)
-
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-Database%20Connectivity-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Documentation-Comprehensive-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
 </div>
