@@ -16,7 +16,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![JDBC](https://img.shields.io/badge/JDBC-Database%20Connectivity-007396?style=for-the-badge)
+[JDBC](https://img.shields.io/badge/JDBC-Database%20Connectivity-007396?style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
